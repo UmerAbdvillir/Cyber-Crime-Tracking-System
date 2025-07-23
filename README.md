@@ -1,2 +1,2 @@
 # Cyber-Crime-Tracking-System
-This system allows reporting and tracking real world cyber-crime cases using SQL, HTML and PHP. End users are victims, Cyber-security experts and an admin.
+This system allows reporting and tracking real world cyber-crime cases using SQL, HTML and PHP. End users are victims, Cyber-security experts and an admin.Admins are authorized to register victims' information and their cases, assign those cases to available experts and store respective criminals' information to the system. Victims can only see the status of their cases (Under-investigation, successful, un-successful). Experts can only change their availability status such as available, non-available, busy.
